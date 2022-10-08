@@ -46,8 +46,14 @@ Contributing to open-source is easy.
 
    - [Cloning the Repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
    
+3. ### Create a new **branch**
 
-3. ### Upload your Code or Change
+   ```bash
+   git checkout -b <branch_name>
+   ```
+   - [Creating a branch](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
+    
+4. ### Upload your Code or Change
 
     Make what change you want to make in Repo. It can be spelling mistake, code correction or anything.
 
@@ -55,7 +61,7 @@ Contributing to open-source is easy.
 
     `All Repository are open for contributions.`
 
-4. ### Push it and Make a PR
+5. ### Push it and Make a PR
 
    - Go to the `Pull requests` section and Click the `New pull request` button.
      <img src="https://user-images.githubusercontent.com/55801439/194705227-8a8be412-3a92-43a1-a7a4-b8bba779936b.png" alt="Create New PR">
