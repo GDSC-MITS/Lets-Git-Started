@@ -1,0 +1,8 @@
+#include <stdio.h>
+void main(){
+double n1,n2,s;
+printf("ENter numbers to find sum:\n");
+scanf("%lf%lf",&n1,&n2);
+s=n1+n2;
+printf("Sum=%lf\n",s);
+}
