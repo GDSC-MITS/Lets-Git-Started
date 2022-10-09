@@ -1,8 +1,8 @@
-# Lets-Git-Started
+# Lets-Git-Started by
 ![Component_1](https://user-images.githubusercontent.com/55801439/194706267-6492d3e2-4a9d-457c-b8ba-c88f82f500d3.png)
 
 
-## How to install and configure git
+## How to install and configure Git
 
 | Operating System| |
 |--|--|
@@ -31,14 +31,14 @@ Contributing to open-source is easy.
    - Creating the copy of repository
      <img src="https://user-images.githubusercontent.com/55801439/194704464-3fbbdb42-70f4-41e0-a074-ef2aec9212e3.png" width="100%" alt="forking the repo">
    
-    - Check here [How to fork](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
+    - [Click Here](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) to learn more about forking.
     
 
 2. ### Clone the Repo
 
    You can **clone** your repository in your local pc with use of **[Github_Desktop](https://desktop.github.com/)** application or for your [Terminal/bash](https://git-scm.com/downloads).
 
-   For **Terminal** -
+   For **Terminal**:
 
    ```bash
    git clone <url_name>
